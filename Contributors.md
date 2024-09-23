@@ -4,6 +4,7 @@
 - [eswari](https://github.com/saieswari2005) **this is my first contribution if it is accepted i am so happy!**
 - [Oğuzhan Kökülü] (https://github.com/Oguzhankokulu) **22/09/2024**
 - [Jad] **My first contribution**
+- [Cici] **Berkeciciley**
 - [Rick] ** Good good study **
 - [Sergio Niño] (https://github.com/sergiend) **😇First steps with gitHub 👨🏽‍💻**
 - [Jezex] (https://github.com/Jezex) **9/18/2024**
